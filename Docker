@@ -1,0 +1,1 @@
+The most probable reason for this error is that all the files are untracked and have not been added. git add --all in case you wish to add all the files Or you can selectively add files. Then git commit -m "Initial comment", git push origin master. This will surely work.
