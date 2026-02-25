@@ -7,3 +7,9 @@ Navigate to Settings: Log in to your GitHub account. Click on your profile pictu
 Access Developer Settings: In the left sidebar, scroll down and click on Developer settings.
 
 Choose Token Type: Under Personal access tokens, choose either: Fine-grained tokens (recommended for better security and control). Tokens (classic) for broader access.
+
+
+
+Generate New Token: Click Generate new token. Provide a descriptive name in the "Note" field. Set an expiration date for the token (optional but recommended). Select the required scopes/permissions (e.g., repo for repository access).
+
+Save and Use the Token: Click Generate token. Copy the generated token immediately, as it will not be shown again.
