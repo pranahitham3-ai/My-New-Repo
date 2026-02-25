@@ -10,6 +10,18 @@ Choose Token Type: Under Personal access tokens, choose either: Fine-grained tok
 
 
 
+<<<<<<< Updated upstream
 Generate New Token: Click Generate new token. Provide a descriptive name in the "Note" field. Set an expiration date for the token (optional but recommended). Select the required scopes/permissions (e.g., repo for repository access).
 
 Save and Use the Token: Click Generate token. Copy the generated token immediately, as it will not be shown again.
+=======
+Important Considerations
+
+Treat your token like a password; do not share it publicly.
+
+Use fine-grained tokens whenever possible for enhanced security.
+
+Store tokens securely, such as in a password manager or environment variables.
+
+For more advanced use cases, such as organization-specific tokens, ensure you configure permissions appropriately.
+>>>>>>> Stashed changes
