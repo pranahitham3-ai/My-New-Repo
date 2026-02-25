@@ -1,1 +1,9 @@
 Once upon a time, a farmer had a goose that laid one golden egg every day. The egg provided enough money for the farmer and his wife to support their daily needs. The farmer and his wife continued to be happy for a long time. But, one day, the farmer thought, “Why should we take just one egg a day? Why can’t we take them all at once
+
+Steps to Generate a Personal Access Token
+
+Navigate to Settings: Log in to your GitHub account. Click on your profile picture in the top-right corner and select Settings.
+
+Access Developer Settings: In the left sidebar, scroll down and click on Developer settings.
+
+Choose Token Type: Under Personal access tokens, choose either: Fine-grained tokens (recommended for better security and control). Tokens (classic) for broader access.
